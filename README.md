@@ -1,4 +1,3 @@
-# Predicting-High-Payment-Medicare-Equipment-Suppliers
 # Predicting High-Payment Medicare Equipment Suppliers
 
 This project applies machine learning to identify high-cost suppliers in the Medicare Durable Medical Equipment, Prosthetics, Orthotics, and Supplies (DMEPOS) program. Using a dataset provided by the Centers for Medicare & Medicaid Services (CMS), we train a classifier to predict whether a supplier belongs to the top 25% in terms of standardized Medicare payment amounts.
@@ -25,7 +24,7 @@ This allows for:
 - Monitoring supplier billing behavior
 - Supporting data-driven payment integrity efforts
 
-## ⚙️ Workflow Summary
+## Workflow Summary
 
 1. **Data Cleaning and Preparation**
    - Removed irrelevant ID/location columns
@@ -69,11 +68,9 @@ This allows for:
 - Feature importance aligns with expected operational drivers, enhancing interpretability.
 
 ## Repository Structure
-├── Predicting High-Payment Medicare Equipment Suppliers.ipynb
-├── mup_dme_ry25_p05_v10_dy23_supr.csv
-└── README.md
-
-
+|-- Predicting High-Payment Medicare Equipment Suppliers.ipynb
+|-- mup_dme_ry25_p05_v10_dy23_supr.csv
+|-- README.md
 
 ## References
 
