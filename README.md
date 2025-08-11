@@ -68,7 +68,7 @@ This allows for:
 - Feature importance aligns with expected operational drivers, enhancing interpretability.
 
 ## Repository Structure
-|-- Predicting High-Payment Medicare Equipment Suppliers.ipynb
+|-- Predicting High-Payment Medicare Equipment Suppliers.ipynb \n
 |-- mup_dme_ry25_p05_v10_dy23_supr.csv
 |-- README.md
 
